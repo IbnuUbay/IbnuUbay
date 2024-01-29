@@ -1,7 +1,7 @@
 # Hello!, I'm Ibnu - aka ibnuubaidillah 👋
 
 ## About me:
-- 🔭 I’m currently working at Smart Health (Please replace '#' with the correct link)
+- 🔭 I’m currently working at Smart Health (https://www.linkedin.com/in/ibnu-ubay)
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as a Data Automation Analyst
 - 🤔 I’m looking for suggestions for Rust Project Ideas
